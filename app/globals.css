@@ -150,6 +150,13 @@ a { color: inherit; }
   letter-spacing: -.045em;
   line-height: 1.06;
 }
+.intro-byline {
+  margin: -7px 0 15px;
+  color: #2f6b4f;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.6;
+}
 .intro-copy, .section-copy {
   max-width: 610px;
   color: var(--ink-soft);

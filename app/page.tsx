@@ -45,6 +45,7 @@ export default function Page() {
         <section className="intro" aria-labelledby="page-title">
           <p className="eyebrow"><span className="eyebrow-dot" />LONGITUDINAL EPILEPSY RESEARCH</p>
           <h1 id="page-title">VLEP - The Versioned Longitudinal Epilepsy Phenotype Project</h1>
+          <p className="intro-byline">A solo, freelance epilepsy and seizure diagnosis criteria research project - by Michael Manthe</p>
           <p className="intro-copy">
             The <strong>Versioned Longitudinal Epilepsy Phenotype Platform</strong> (VLEP) is a research prototype for organizing seizure evidence across time—and making changes in understanding easier to follow.
           </p>
